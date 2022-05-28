@@ -1,4 +1,4 @@
-# OnMyShelf
+# OnMyShelf - open source Collection Manager
 
 OnMyShelf is a powerful collection manager.
 
